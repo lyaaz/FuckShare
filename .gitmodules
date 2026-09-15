@@ -1,3 +1,6 @@
 [submodule "ui"]
 	path = ui
-	url = git@github.com:FuckAPK/ui.git
+	url = https://github.com/FuckAPK/ui.git
+[submodule "build-logic"]
+	path = build-logic
+	url = https://github.com/FuckAPK/build-logic.git
